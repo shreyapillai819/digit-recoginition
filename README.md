@@ -9,10 +9,6 @@ This project implements a digit recognition system using the MNIST dataset. It c
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Results](#results)
-- [License](#license)
 
 ---
 
@@ -49,3 +45,9 @@ The trained model achieves high accuracy on the MNIST test dataset, and the GUI 
    Run:
    ```bash
    python train_digit_recognizer.py
+
+2.GUI
+ Run:
+   ```bash
+python gui_digit_recognizer.py
+
